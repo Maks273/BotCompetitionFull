@@ -1,0 +1,2 @@
+moveAt(BOTTOM)
+moveAt(LEFT)

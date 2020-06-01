@@ -1,0 +1,2 @@
+goTo(null)
+mark0

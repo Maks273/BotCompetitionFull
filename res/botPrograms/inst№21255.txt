@@ -1,0 +1,10 @@
+pushIntoStack(stack1)
+peekCordsStack(stack1)
+moveAt(BOTTOM)
+comeBackOneStep
+popCordsStack(stack1)
+goTo(null)
+getCurCords
+if(lookAt(BOTTOM),pushIntoStack,null,pushIntoStack,null)
+mark0
+goTo(mark0)

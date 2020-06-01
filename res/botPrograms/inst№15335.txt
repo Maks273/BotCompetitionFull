@@ -1,0 +1,6 @@
+moveAt(BOTTOM)
+comeBackOneStep
+moveAt(BOTTOM)
+comeBackOneStep
+moveAt(BOTTOM)
+comeBackOneStep

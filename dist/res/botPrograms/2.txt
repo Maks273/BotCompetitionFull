@@ -1,0 +1,2 @@
+if(lookAt(BOTTOM),moveAt,BOTTOM,getCurCords,null)
+if(lookAt(RIGHT),moveAt,RIGHT,pushIntoStack,stack2)
